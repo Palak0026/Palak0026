@@ -1,0 +1,51 @@
+name: Generate Palak's GitHub Grand Prix
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-racer.py"
+      - ".github/workflows/contribution-racer.yml"
+
+permissions:
+  contents: write
+
+jobs:
+
+  generate-racer:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+
+      - name: Generate Palak's GitHub Grand Prix
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        run: |
+          python scripts/generate-racer.py
+
+
+      - name: Publish Grand Prix Animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
