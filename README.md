@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🎀 Hi, I'm Palak! 🌷
+# 🎀 Hi, I'm Palak! 🌸
 
 ### ✨ B.Tech Student • Developer • ML Enthusiast ✨
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌷 About Me
+## 🌸 About Me
 
 🎓 B.Tech student exploring the world of **Computer Science**
 
@@ -85,27 +85,53 @@
 
 ---
 
-## 🎀 Featured Projects
+# 🎀 Featured Projects
 
-### 🫀 Heart Disease Prediction
+## 🏎️ [WPM Typing Race Game](https://github.com/Palak0026/wpm_race)
+
+> A fun C-based typing speed game that calculates typing performance using **Words Per Minute (WPM)** and turns it into a racing-style challenge.
+
+`C` `WPM` `Typing Game` `Algorithms` `VS Code`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak0026/wpm_race)
+
+---
+
+## 🍽️ [Zomato Data Analysis Project](https://github.com/Palak0026/Pyproject1)
+
+> A Python-based project for working with **Zomato restaurant data**, combining data processing, database operations, and an interactive application interface.
+
+`Python` `CSV` `SQLite` `Data Analysis` `Tkinter`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak0026/Pyproject1)
+
+---
+
+## 🫀 Heart Disease Prediction
 
 > Machine learning / deep learning model for heart disease prediction.
 
 `Python` `Pandas` `Neural Networks` `Machine Learning`
 
-### 📈 Store Sales Forecasting
+---
+
+## 📈 Store Sales Forecasting
 
 > Time-series machine learning model for predicting future store sales.
 
 `Python` `LightGBM` `Pandas` `Time Series`
 
-### 🌐 Network Topology Simulation
+---
+
+## 🌐 Network Topology Simulation
 
 > Designed and tested different network topologies using Cisco Packet Tracer.
 
 `Networking` `Cisco Packet Tracer` `TCP/IP`
 
-### 🧠 Algorithm Implementations
+---
+
+## 🧠 Algorithm Implementations
 
 > Implementations and analysis of important Data Structures & Algorithms.
 
@@ -171,7 +197,7 @@
 
 <div align="center">
 
-### 🌷 Thanks for visiting my little corner of GitHub 🌷
+### 🌸 Thanks for visiting my little corner of GitHub 🌸
 
 ✨ *building one project at a time* ✨
 
