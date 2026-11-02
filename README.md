@@ -149,6 +149,24 @@
 
 ---
 
+# 🏁 Palak's GitHub Grand Prix
+
+<div align="center">
+
+### 🏎️ Racing through my contributions, one commit at a time 🎀
+
+<img src="https://raw.githubusercontent.com/Palak0026/Palak0026/output/github-contribution-racer.svg" width="100%" alt="Palak's GitHub Contribution Racer" />
+
+<br>
+
+### 🏁 `START`　•　💻 `CODE`　•　✨ `COMMIT`　•　🏎️ `REPEAT`
+
+💗 *one commit closer to the finish line* 💗
+
+</div>
+
+---
+
 ## 💌 Connect With Me
 
 <div align="center">
