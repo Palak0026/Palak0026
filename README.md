@@ -127,18 +127,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Palak0026&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak0026&layout=compact&theme=rose_pine&hide_border=true" />
-
-</div>
-
----
-
 ## 🌸 Contribution Streak
 
 <div align="center">
